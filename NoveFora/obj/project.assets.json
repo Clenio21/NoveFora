@@ -8,25 +8,28 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\XD Elirene da Costa\\.nuget\\packages\\": {},
+    "C:\\Users\\XD CLENIO CANJAMBA\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\XD Elirene da Costa\\source\\repos\\NoveFora\\NoveFora\\NoveFora.csproj",
+      "projectUniqueName": "C:\\Users\\XD CLENIO CANJAMBA\\source\\repos\\NoveFora\\NoveFora\\NoveFora.csproj",
       "projectName": "NoveFora",
-      "projectPath": "C:\\Users\\XD Elirene da Costa\\source\\repos\\NoveFora\\NoveFora\\NoveFora.csproj",
-      "packagesPath": "C:\\Users\\XD Elirene da Costa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\XD Elirene da Costa\\source\\repos\\NoveFora\\NoveFora\\obj\\",
+      "projectPath": "C:\\Users\\XD CLENIO CANJAMBA\\source\\repos\\NoveFora\\NoveFora\\NoveFora.csproj",
+      "packagesPath": "C:\\Users\\XD CLENIO CANJAMBA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\XD CLENIO CANJAMBA\\source\\repos\\NoveFora\\NoveFora\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\XD Elirene da Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\XD CLENIO CANJAMBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -35,6 +38,7 @@
         "net5.0-windows7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -71,7 +75,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
